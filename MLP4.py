@@ -1,3 +1,8 @@
+'''
+Following code enable to perform an easy hand-writting digit classification.
+Data is loaded from the keras mnist.
+'''
+
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from keras.models import Sequential
