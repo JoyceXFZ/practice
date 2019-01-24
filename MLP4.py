@@ -1,5 +1,5 @@
 '''
-Following code enable to perform an easy hand-writting digit classification.
+Following code enables to perform an easy hand-writting digit classification.
 Data is loaded from the keras mnist.
 '''
 
