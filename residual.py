@@ -1,9 +1,3 @@
-'''
-This file is helpful for following points:
-    1. Download financial data from Yahoo Finance
-    2. Compare historical stock performance (e.g. AAPL vs XLK, QQQ) 
-    3. Perform simple regression analysis
-'''
 import datetime
 import numpy as np
 import statsmodels.api as sm
